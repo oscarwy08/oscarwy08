@@ -12,6 +12,9 @@
   <a href="https://dev.to/oscarwy08" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="40" alt="devto logo"  />
   </a>
+    <a href="https://linktr.ee/oscarwy08" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=linktr.ee&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="40" alt="devto logo"  />
+  </a>
 </div>
 
 ###
